@@ -1,8 +1,8 @@
 
 @font-face {
   font-family: "Tropi Land";
-  src: local("Tropi Land"),
-  url("/javascript-libraries-and-frameworks/fonts/tropiland.ttf") format(".ttf");
+  /* src: local("Tropi Land"), */
+  src: url("fonts/tropiland.ttf") format(".ttf");
 }
 
 .tropi {
