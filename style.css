@@ -2,7 +2,7 @@
 @font-face {
   font-family: "Tropi Land";
   src: local("Tropi Land"),
-  url("/fonts/tropiland.ttf") format(".ttf");
+  url("/javascript-libraries-and-frameworks/fonts/tropiland.ttf") format(".ttf");
 }
 
 .tropi {
