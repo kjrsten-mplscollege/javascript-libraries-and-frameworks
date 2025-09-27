@@ -5,8 +5,16 @@
   src: url("fonts/tropiland.ttf") format("truetype");
 }
 
+body {
+    margin: 50px;
+}
+
 .tropi {
     font-family: "Tropi Land", sans-serif;
+}
+
+.btn {
+    font-size: 2em;
 }
 
 .onest-text {
