@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/static/css/main.2a9ddb1c.css",
+    "main.js": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/static/js/main.863a5899.js",
+    "static/js/453.97204c4d.chunk.js": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/static/js/453.97204c4d.chunk.js",
+    "index.html": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/index.html",
+    "main.2a9ddb1c.css.map": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/static/css/main.2a9ddb1c.css.map",
+    "main.863a5899.js.map": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/static/js/main.863a5899.js.map",
+    "453.97204c4d.chunk.js.map": "/javascript-libraries-and-frameworks/reactprojecttwo/my-app/static/js/453.97204c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9ddb1c.css",
+    "static/js/main.863a5899.js"
+  ]
+}
