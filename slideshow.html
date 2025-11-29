@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Slideshow</title>
+    
+    <link rel="stylesheet" href="css/splide.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <main>
+        <h1>Slideshow using Splide.js</h1>
+
+        <div class="splide" role="group" aria-label="Splide Basic HTML Example">
+            <div class="splide__track">
+                <ul class="splide__list">
+                    <li class="splide__slide">
+                        <div class="splide__slide__container">
+                            <img src="img/slideshow/slide1.jpg">
+                        </div>
+                    </li>
+                    <li class="splide__slide">
+                        <div class="splide__slide__container">
+                            <img src="img/slideshow/slide2.jpg">
+                        </div>
+                    </li>
+                    <li class="splide__slide">
+                        <div class="splide__slide__container">
+                            <img src="img/slideshow/slide3.jpg">
+                        </div>
+                    </li>
+                    <li class="splide__slide">
+                        <div class="splide__slide__container">
+                            <img src="img/slideshow/slide4.jpg">
+                        </div>
+                    </li>
+                    <li class="splide__slide">
+                        <div class="splide__slide__container">
+                            <img src="img/slideshow/slide5.jpg">
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </main>
+
+
+    <script src="js/splide.min.js"></script>
+
+    <script>
+        new Splide( '.splide' ).mount();
+    </script>
+
+</body>
+</html>
